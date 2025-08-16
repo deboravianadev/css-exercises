@@ -1,0 +1,19 @@
+.elementoImpar {
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+    background-color: #ffa7a7;
+}
+
+#segundo-elemento {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#terceiro-elemento,
+#quarto-elemento {
+    font-size: 24px;
+}
+
+#quarto-elemento {
+    background-color: #80ff80;
+    font-weight: 900;
+}
